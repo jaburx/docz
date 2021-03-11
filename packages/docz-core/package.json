@@ -61,7 +61,7 @@
     "mini-html-webpack-plugin": "^0.2.3",
     "p-reduce": "^1.0.0",
     "progress-estimator": "^0.2.2",
-    "react-dev-utils": "^7.0.0",
+    "react-dev-utils": "^11.0.4",
     "react-docgen-typescript-loader": "^3.0.0-rc.0",
     "react-hot-loader": "^4.6.3",
     "rehype-docz": "^0.13.6",
